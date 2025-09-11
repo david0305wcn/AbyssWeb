@@ -1,0 +1,6 @@
+Build/*.wasm
+Build/*.data
+Build/*.js
+!Build/*.unityweb
+!Build/*/*.unityweb
+!Build/*.loader.js
