@@ -3,6 +3,7 @@
     <type fullname="CFX_AutoDestructShuriken" preserve="all" />
     <type fullname="CoralObject" preserve="all" />
     <type fullname="CoralSetController" preserve="all" />
+    <type fullname="StoneSetControl" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
